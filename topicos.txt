@@ -1,0 +1,25 @@
+resolver equacoes de 2nd lower levels 
+
+-> mostrar a equacao
+-> mostrar a equacao reduzida
+-> mostrar o nivel da equacao
+-> mostrar a polaridade do discriminante
+	polaridade   : pos/neg/0
+	discriminante: b^2 - 4ac -> esta formula funciona somente para polinomios quadraticos
+If Δ > 0 , the polynomial has two distinct real roots; the parabola crosses the x {\displaystyle x}-axis at two points.
+If Δ = 0 , it has one distinct real root, known as a double or repeated root because the two roots coincide. The parabola touches the x {\displaystyle x}-axis at its vertex.
+If Δ < 0 , it has no real roots; the parabola does not meet the x {\displaystyle x}-axis. Its two roots are instead distinct non-real complex conjugates.[1]
+
+	discriminante: b^2c^2 − 4ac^3 − 4b^3d − 27a^2d^2 + 18abcd.
+
+If Δ3>0Δ3​>0, then the equation has three distinct real roots.
+If Δ3=0Δ3​=0, then the equation has a repeated root and all its roots are real.
+If Δ3<0Δ3​<0, then the equation has one real root and two non-real complex conjugate roots. 
+
+
+O discriminante serve para descubrir quantas solucoes reais a equacao possui
+
+uma solucao real é uma solucao na qual f(x) = 0
+
+---
+
